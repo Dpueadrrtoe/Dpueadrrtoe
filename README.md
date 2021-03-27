@@ -1,6 +1,9 @@
 Hi, I’m @PedroDuarteSH - Duarte Henriques
+
 I’m currently learning informatics engineering
+
 I’m looking to collaborate on projects
+
 How to reach me contacting pedroduartesh@gmail.com 
 
 <!---
