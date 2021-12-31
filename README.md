@@ -16,7 +16,7 @@
 [<img align="left" alt="PedroDuarteSH | LinkedIn" width="22px" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PedroDuarteSH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="PedroDuarteSH | Email" width="22px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.2/email.svg" />][email]
-
+<br>
 ---
 ### My stats
 [![PedroDuarteSH GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroDuarteSH&count_private=true&show_icons=true&theme=radical)]()
