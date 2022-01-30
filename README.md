@@ -1,6 +1,4 @@
 ### Hi, I’m @PedroDuarteSH - Duarte Henriques
-[![Twitter Follow](https://img.shields.io/twitter/follow/pedro__duarte?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=pedro__duarte)
-
 
 ### Who am I?
 - 💻 I’m currently learning informatics engineering in Faculdade de Ciencias e Tecnologias da Universidade de Coimbra
@@ -26,7 +24,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDuarteSH&exclude_repo=Smartphone-Based-Recognition-of-Human-Activities-and-Postural-Transitions&layout=compact&langs_count=10&theme=radical)]()
 
 
-[twitter]: https://twitter.com/pedro__duarte
 [instagram]: https://www.instagram.com/pedro_._duarte/
 [linkedin]: https://www.linkedin.com/in/pedro-duarte-henriques-0aa755210/
 [email]: mailto:pedroduartesh@gmail.com 
