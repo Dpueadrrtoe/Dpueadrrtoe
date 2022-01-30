@@ -10,7 +10,6 @@
 ---
 ### Connect with me
 
-[<img align="left" alt="PedroDuarteSH | Twitter" style="color:red" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="PedroDuarteSH | LinkedIn" width="22px" style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PedroDuarteSH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="PedroDuarteSH | Email" width="22px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.2/email.svg" />][email]
