@@ -5,7 +5,7 @@
 
 - 🧑‍🎓 I try to do my best in all projects I am into
 
-- 📖 I’m currently trying to learn everything 😂
+- 📖 I’m currently trying to learn everything
 
 ---
 ### Connect with me
